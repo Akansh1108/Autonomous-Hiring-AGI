@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Hiring AGI",
+  "description": "A dashboard to simulate a multi-agent hiring assessment pipeline using the Gemini API. Input candidate data to generate technical, behavioral, and ROI scores.",
+  "requestFramePermissions": []
+}
